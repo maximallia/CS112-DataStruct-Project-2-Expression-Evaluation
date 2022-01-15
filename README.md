@@ -35,3 +35,6 @@ Variable names (either simple variables or arrays) will be made up of one or mor
 Integer constants may have multiple digits
 
 There may any number of spaces or tabs between any pair of tokens in the expression. Tokens are variable names, constants, parentheses, square brackets, and operators.
+
+MORE INFO:
+Assignment 2 description.pdf
